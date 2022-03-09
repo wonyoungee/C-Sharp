@@ -1,0 +1,8 @@
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\Ex22_Array_Quiz\bin\Debug\Ex22_Array_Quiz.exe.config
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\Ex22_Array_Quiz\bin\Debug\Ex22_Array_Quiz.exe
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\Ex22_Array_Quiz\bin\Debug\Ex22_Array_Quiz.pdb
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\Ex22_Array_Quiz\obj\Debug\Ex22_Array_Quiz.csproj.AssemblyReference.cache
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\Ex22_Array_Quiz\obj\Debug\Ex22_Array_Quiz.csproj.SuggestedBindingRedirects.cache
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\Ex22_Array_Quiz\obj\Debug\Ex22_Array_Quiz.csproj.CoreCompileInputs.cache
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\Ex22_Array_Quiz\obj\Debug\Ex22_Array_Quiz.exe
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\Ex22_Array_Quiz\obj\Debug\Ex22_Array_Quiz.pdb

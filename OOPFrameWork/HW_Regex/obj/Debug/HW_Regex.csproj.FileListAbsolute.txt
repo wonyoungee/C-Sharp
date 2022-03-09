@@ -1,0 +1,8 @@
+C:\Users\mimiy\Desktop\git_c#\OOPFrameWork\HW_Regex\bin\Debug\HW_Regex.exe.config
+C:\Users\mimiy\Desktop\git_c#\OOPFrameWork\HW_Regex\bin\Debug\HW_Regex.exe
+C:\Users\mimiy\Desktop\git_c#\OOPFrameWork\HW_Regex\bin\Debug\HW_Regex.pdb
+C:\Users\mimiy\Desktop\git_c#\OOPFrameWork\HW_Regex\obj\Debug\HW_Regex.csproj.AssemblyReference.cache
+C:\Users\mimiy\Desktop\git_c#\OOPFrameWork\HW_Regex\obj\Debug\HW_Regex.csproj.SuggestedBindingRedirects.cache
+C:\Users\mimiy\Desktop\git_c#\OOPFrameWork\HW_Regex\obj\Debug\HW_Regex.csproj.CoreCompileInputs.cache
+C:\Users\mimiy\Desktop\git_c#\OOPFrameWork\HW_Regex\obj\Debug\HW_Regex.exe
+C:\Users\mimiy\Desktop\git_c#\OOPFrameWork\HW_Regex\obj\Debug\HW_Regex.pdb

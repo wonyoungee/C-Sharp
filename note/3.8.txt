@@ -1,0 +1,21 @@
+ - 상속보다는 포함을 주로 사용
+ - 같은 타입의 변수가 나열 => 배열 사용!
+
+<Ex03_ Inheritance>
+문제점 : 각각의 생성자에  member field 에 할당 작업을 반복적으로 하고있다
+답안지 : this 사용
+
+ - var : 한번 값을 넣으면 타입이 바뀌지 X. 타입이 고정됨.
+ - dynamic : 값을 넣을때마다 바뀜. 타입 고정 X (== JS의 var)
+
+ - static class : 모든 자원이(멤버필드, 메소드) static 이라는 의미
+
+ - C# Indexer : 클래스 객체의 데이타를 배열 형태로 인덱스를 써서 엑세스할 수 있게 해준다.
+ - Indexer : 객체를 통해서 안쪽에 있는 배열에 접근
+ - c# 은 객체를 생성할 때 프로퍼티를 이용해 필드를 초기화 할 수 있음.
+
+ - 모든 개체는 ToString() => string으로 변환.
+	int x = 42;
+	string strx = x.ToString();
+	Console.WriteLine(strx);
+	// Output: 42

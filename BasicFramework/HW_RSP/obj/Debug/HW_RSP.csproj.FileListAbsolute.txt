@@ -1,0 +1,8 @@
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\HW_RSP\bin\Debug\HW_RSP.exe.config
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\HW_RSP\bin\Debug\HW_RSP.exe
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\HW_RSP\bin\Debug\HW_RSP.pdb
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\HW_RSP\obj\Debug\HW_RSP.csproj.AssemblyReference.cache
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\HW_RSP\obj\Debug\HW_RSP.csproj.SuggestedBindingRedirects.cache
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\HW_RSP\obj\Debug\HW_RSP.csproj.CoreCompileInputs.cache
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\HW_RSP\obj\Debug\HW_RSP.exe
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\HW_RSP\obj\Debug\HW_RSP.pdb

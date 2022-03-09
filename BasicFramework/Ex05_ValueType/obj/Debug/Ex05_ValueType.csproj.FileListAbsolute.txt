@@ -1,0 +1,8 @@
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\Ex05_ValueType\bin\Debug\Ex05_ValueType.exe.config
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\Ex05_ValueType\bin\Debug\Ex05_ValueType.exe
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\Ex05_ValueType\bin\Debug\Ex05_ValueType.pdb
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\Ex05_ValueType\obj\Debug\Ex05_ValueType.csproj.AssemblyReference.cache
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\Ex05_ValueType\obj\Debug\Ex05_ValueType.csproj.SuggestedBindingRedirects.cache
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\Ex05_ValueType\obj\Debug\Ex05_ValueType.csproj.CoreCompileInputs.cache
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\Ex05_ValueType\obj\Debug\Ex05_ValueType.exe
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\Ex05_ValueType\obj\Debug\Ex05_ValueType.pdb

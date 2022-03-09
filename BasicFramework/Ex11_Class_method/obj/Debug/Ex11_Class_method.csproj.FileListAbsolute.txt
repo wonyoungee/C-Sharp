@@ -1,0 +1,8 @@
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\Ex11_Class_method\bin\Debug\Ex11_Class_method.exe.config
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\Ex11_Class_method\bin\Debug\Ex11_Class_method.exe
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\Ex11_Class_method\bin\Debug\Ex11_Class_method.pdb
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\Ex11_Class_method\obj\Debug\Ex11_Class_method.csproj.AssemblyReference.cache
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\Ex11_Class_method\obj\Debug\Ex11_Class_method.csproj.SuggestedBindingRedirects.cache
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\Ex11_Class_method\obj\Debug\Ex11_Class_method.csproj.CoreCompileInputs.cache
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\Ex11_Class_method\obj\Debug\Ex11_Class_method.exe
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\Ex11_Class_method\obj\Debug\Ex11_Class_method.pdb

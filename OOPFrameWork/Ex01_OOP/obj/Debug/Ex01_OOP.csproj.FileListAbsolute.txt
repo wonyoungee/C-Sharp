@@ -1,0 +1,16 @@
+C:\Users\mimiy\Desktop\Ecount\Labs\OOPFrameWork\Ex01_OOP\bin\Debug\Ex01_OOP.exe.config
+C:\Users\mimiy\Desktop\Ecount\Labs\OOPFrameWork\Ex01_OOP\bin\Debug\Ex01_OOP.exe
+C:\Users\mimiy\Desktop\Ecount\Labs\OOPFrameWork\Ex01_OOP\bin\Debug\Ex01_OOP.pdb
+C:\Users\mimiy\Desktop\Ecount\Labs\OOPFrameWork\Ex01_OOP\obj\Debug\Ex01_OOP.csproj.AssemblyReference.cache
+C:\Users\mimiy\Desktop\Ecount\Labs\OOPFrameWork\Ex01_OOP\obj\Debug\Ex01_OOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\mimiy\Desktop\Ecount\Labs\OOPFrameWork\Ex01_OOP\obj\Debug\Ex01_OOP.csproj.CoreCompileInputs.cache
+C:\Users\mimiy\Desktop\Ecount\Labs\OOPFrameWork\Ex01_OOP\obj\Debug\Ex01_OOP.exe
+C:\Users\mimiy\Desktop\Ecount\Labs\OOPFrameWork\Ex01_OOP\obj\Debug\Ex01_OOP.pdb
+C:\Users\mimiy\Desktop\git_c#\OOPFrameWork\Ex01_OOP\bin\Debug\Ex01_OOP.exe.config
+C:\Users\mimiy\Desktop\git_c#\OOPFrameWork\Ex01_OOP\bin\Debug\Ex01_OOP.exe
+C:\Users\mimiy\Desktop\git_c#\OOPFrameWork\Ex01_OOP\bin\Debug\Ex01_OOP.pdb
+C:\Users\mimiy\Desktop\git_c#\OOPFrameWork\Ex01_OOP\obj\Debug\Ex01_OOP.csproj.AssemblyReference.cache
+C:\Users\mimiy\Desktop\git_c#\OOPFrameWork\Ex01_OOP\obj\Debug\Ex01_OOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\mimiy\Desktop\git_c#\OOPFrameWork\Ex01_OOP\obj\Debug\Ex01_OOP.csproj.CoreCompileInputs.cache
+C:\Users\mimiy\Desktop\git_c#\OOPFrameWork\Ex01_OOP\obj\Debug\Ex01_OOP.exe
+C:\Users\mimiy\Desktop\git_c#\OOPFrameWork\Ex01_OOP\obj\Debug\Ex01_OOP.pdb

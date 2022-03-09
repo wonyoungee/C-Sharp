@@ -1,0 +1,8 @@
+C:\Users\mimiy\Desktop\git_c#\OOPFrameWork\Ex06_Try_Catch\bin\Debug\Ex06_Try_Catch.exe.config
+C:\Users\mimiy\Desktop\git_c#\OOPFrameWork\Ex06_Try_Catch\bin\Debug\Ex06_Try_Catch.exe
+C:\Users\mimiy\Desktop\git_c#\OOPFrameWork\Ex06_Try_Catch\bin\Debug\Ex06_Try_Catch.pdb
+C:\Users\mimiy\Desktop\git_c#\OOPFrameWork\Ex06_Try_Catch\obj\Debug\Ex06_Try_Catch.csproj.AssemblyReference.cache
+C:\Users\mimiy\Desktop\git_c#\OOPFrameWork\Ex06_Try_Catch\obj\Debug\Ex06_Try_Catch.csproj.SuggestedBindingRedirects.cache
+C:\Users\mimiy\Desktop\git_c#\OOPFrameWork\Ex06_Try_Catch\obj\Debug\Ex06_Try_Catch.csproj.CoreCompileInputs.cache
+C:\Users\mimiy\Desktop\git_c#\OOPFrameWork\Ex06_Try_Catch\obj\Debug\Ex06_Try_Catch.exe
+C:\Users\mimiy\Desktop\git_c#\OOPFrameWork\Ex06_Try_Catch\obj\Debug\Ex06_Try_Catch.pdb

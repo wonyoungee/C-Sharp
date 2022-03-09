@@ -1,0 +1,16 @@
+C:\Users\mimiy\Desktop\Ecount\Labs\OOPFrameWork\Ex03_Inherit_Composition\bin\Debug\Ex03_Inherit_Composition.exe.config
+C:\Users\mimiy\Desktop\Ecount\Labs\OOPFrameWork\Ex03_Inherit_Composition\bin\Debug\Ex03_Inherit_Composition.exe
+C:\Users\mimiy\Desktop\Ecount\Labs\OOPFrameWork\Ex03_Inherit_Composition\bin\Debug\Ex03_Inherit_Composition.pdb
+C:\Users\mimiy\Desktop\Ecount\Labs\OOPFrameWork\Ex03_Inherit_Composition\obj\Debug\Ex03_Inheritance_Composition.csproj.AssemblyReference.cache
+C:\Users\mimiy\Desktop\Ecount\Labs\OOPFrameWork\Ex03_Inherit_Composition\obj\Debug\Ex03_Inheritance_Composition.csproj.SuggestedBindingRedirects.cache
+C:\Users\mimiy\Desktop\Ecount\Labs\OOPFrameWork\Ex03_Inherit_Composition\obj\Debug\Ex03_Inheritance_Composition.csproj.CoreCompileInputs.cache
+C:\Users\mimiy\Desktop\Ecount\Labs\OOPFrameWork\Ex03_Inherit_Composition\obj\Debug\Ex03_Inherit_Composition.exe
+C:\Users\mimiy\Desktop\Ecount\Labs\OOPFrameWork\Ex03_Inherit_Composition\obj\Debug\Ex03_Inherit_Composition.pdb
+C:\Users\mimiy\Desktop\git_c#\OOPFrameWork\Ex03_Inherit_Composition\bin\Debug\Ex03_Inherit_Composition.exe.config
+C:\Users\mimiy\Desktop\git_c#\OOPFrameWork\Ex03_Inherit_Composition\bin\Debug\Ex03_Inherit_Composition.exe
+C:\Users\mimiy\Desktop\git_c#\OOPFrameWork\Ex03_Inherit_Composition\bin\Debug\Ex03_Inherit_Composition.pdb
+C:\Users\mimiy\Desktop\git_c#\OOPFrameWork\Ex03_Inherit_Composition\obj\Debug\Ex03_Inheritance_Composition.csproj.AssemblyReference.cache
+C:\Users\mimiy\Desktop\git_c#\OOPFrameWork\Ex03_Inherit_Composition\obj\Debug\Ex03_Inheritance_Composition.csproj.SuggestedBindingRedirects.cache
+C:\Users\mimiy\Desktop\git_c#\OOPFrameWork\Ex03_Inherit_Composition\obj\Debug\Ex03_Inheritance_Composition.csproj.CoreCompileInputs.cache
+C:\Users\mimiy\Desktop\git_c#\OOPFrameWork\Ex03_Inherit_Composition\obj\Debug\Ex03_Inherit_Composition.exe
+C:\Users\mimiy\Desktop\git_c#\OOPFrameWork\Ex03_Inherit_Composition\obj\Debug\Ex03_Inherit_Composition.pdb

@@ -1,0 +1,8 @@
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\Ex23_Array_Cinema\bin\Debug\Ex23_Array_Cinema.exe.config
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\Ex23_Array_Cinema\bin\Debug\Ex23_Array_Cinema.exe
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\Ex23_Array_Cinema\bin\Debug\Ex23_Array_Cinema.pdb
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\Ex23_Array_Cinema\obj\Debug\Ex23_Array_Cinema.csproj.AssemblyReference.cache
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\Ex23_Array_Cinema\obj\Debug\Ex23_Array_Cinema.csproj.SuggestedBindingRedirects.cache
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\Ex23_Array_Cinema\obj\Debug\Ex23_Array_Cinema.csproj.CoreCompileInputs.cache
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\Ex23_Array_Cinema\obj\Debug\Ex23_Array_Cinema.exe
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\Ex23_Array_Cinema\obj\Debug\Ex23_Array_Cinema.pdb

@@ -1,0 +1,8 @@
+C:\Users\mimiy\Desktop\Ecount\Labs\C-sharp\BasicFramework\Ex18_Const_Readonly\bin\Debug\Ex18_Const_Readonly.exe.config
+C:\Users\mimiy\Desktop\Ecount\Labs\C-sharp\BasicFramework\Ex18_Const_Readonly\bin\Debug\Ex18_Const_Readonly.exe
+C:\Users\mimiy\Desktop\Ecount\Labs\C-sharp\BasicFramework\Ex18_Const_Readonly\bin\Debug\Ex18_Const_Readonly.pdb
+C:\Users\mimiy\Desktop\Ecount\Labs\C-sharp\BasicFramework\Ex18_Const_Readonly\obj\Debug\Ex18_Const_Readonly.csproj.AssemblyReference.cache
+C:\Users\mimiy\Desktop\Ecount\Labs\C-sharp\BasicFramework\Ex18_Const_Readonly\obj\Debug\Ex18_Const_Readonly.csproj.SuggestedBindingRedirects.cache
+C:\Users\mimiy\Desktop\Ecount\Labs\C-sharp\BasicFramework\Ex18_Const_Readonly\obj\Debug\Ex18_Const_Readonly.csproj.CoreCompileInputs.cache
+C:\Users\mimiy\Desktop\Ecount\Labs\C-sharp\BasicFramework\Ex18_Const_Readonly\obj\Debug\Ex18_Const_Readonly.exe
+C:\Users\mimiy\Desktop\Ecount\Labs\C-sharp\BasicFramework\Ex18_Const_Readonly\obj\Debug\Ex18_Const_Readonly.pdb

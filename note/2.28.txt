@@ -1,0 +1,21 @@
+static -> (data)memory에 미리 올라가있음. new하지 않아도 쓸 수 있음.
+main -> stack에 올림.
+함수의 실행은 무조건  stack 에서!
+local variable -> stack
+
+Labs>Solution(Project를 묶어주는 역할)>Project
+
+참조 : C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\Ex03_EmpLib\bin\Debug => dll 파일 추가
+
+struct(의미있는 단위의 묶음) => value type
+class => reference type
+
+멤버 필드는 디폴트 값이 '0'.
+지역변수는 초기화 필수!
+
+*변수
+static > instance > local > block variable
+-block variable 은 for(int i;)에서 i와 같은 것들.
+
+0 : False
+1 : True

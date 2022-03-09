@@ -1,0 +1,8 @@
+C:\Users\mimiy\Desktop\Ecount\Labs\C-sharp\BasicFramework\Ex13_Static\bin\Debug\Ex13_Static.exe.config
+C:\Users\mimiy\Desktop\Ecount\Labs\C-sharp\BasicFramework\Ex13_Static\bin\Debug\Ex13_Static.exe
+C:\Users\mimiy\Desktop\Ecount\Labs\C-sharp\BasicFramework\Ex13_Static\bin\Debug\Ex13_Static.pdb
+C:\Users\mimiy\Desktop\Ecount\Labs\C-sharp\BasicFramework\Ex13_Static\obj\Debug\Ex13_Static.csproj.AssemblyReference.cache
+C:\Users\mimiy\Desktop\Ecount\Labs\C-sharp\BasicFramework\Ex13_Static\obj\Debug\Ex13_Static.csproj.SuggestedBindingRedirects.cache
+C:\Users\mimiy\Desktop\Ecount\Labs\C-sharp\BasicFramework\Ex13_Static\obj\Debug\Ex13_Static.csproj.CoreCompileInputs.cache
+C:\Users\mimiy\Desktop\Ecount\Labs\C-sharp\BasicFramework\Ex13_Static\obj\Debug\Ex13_Static.exe
+C:\Users\mimiy\Desktop\Ecount\Labs\C-sharp\BasicFramework\Ex13_Static\obj\Debug\Ex13_Static.pdb

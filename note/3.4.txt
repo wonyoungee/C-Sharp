@@ -1,0 +1,45 @@
+<설계도 만들기>
+
+* 요구사항 -> (속성 + 기능) 도출
+
+* 클래스 : member field + method
+
+* 속성 : (고유 / 상태 / 부품) 정보를 담는 것. >> 변수 
+
+* 변수의 종류 4가지
+    1. static variable : 객체간 공유자원
+    2. instance variable : 객체마다 가지는 자원
+    3. local variable : 함수가 가지는 자원
+    4. block variable : 제어문이 가지는 자원
+
+* 기능(method) 종류 4가지
+    1. void parameter(x)
+    2. void parameter(o)
+    3. return parameter(x)
+    4. return parameter(o)
+
+* 접근자 : public / private
+
+* 함수의 접근자가 private 이면 : 다른 함수를 도와주는 함수.
+
+* Type : Value / Reference (ex.array)
+
+
+class Car {
+    // member field
+    public string carname;	// default
+    public static string s;	// 객체간 공유자원
+    
+    // constructor
+    public Car(){ ... }		// default 생성자 : member field 초기화
+    public Car(int data) { ... }	// overloading 생성자 (생성자는 여러개 만들 수 있음.)
+
+    // method
+    public void print() {
+        int data = 10;	// local variable은 반드시 초기화 필요.
+
+        for(int i = 0; i < 10; i++){	// i : block variable
+	......
+        }
+    }	
+}

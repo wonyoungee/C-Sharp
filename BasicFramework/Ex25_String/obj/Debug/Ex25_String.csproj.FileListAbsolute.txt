@@ -1,0 +1,8 @@
+C:\Users\mimiy\Desktop\git_c#\Ex25_String\bin\Debug\Ex25_String.exe.config
+C:\Users\mimiy\Desktop\git_c#\Ex25_String\bin\Debug\Ex25_String.exe
+C:\Users\mimiy\Desktop\git_c#\Ex25_String\bin\Debug\Ex25_String.pdb
+C:\Users\mimiy\Desktop\git_c#\Ex25_String\obj\Debug\Ex25_String.csproj.AssemblyReference.cache
+C:\Users\mimiy\Desktop\git_c#\Ex25_String\obj\Debug\Ex25_String.csproj.SuggestedBindingRedirects.cache
+C:\Users\mimiy\Desktop\git_c#\Ex25_String\obj\Debug\Ex25_String.csproj.CoreCompileInputs.cache
+C:\Users\mimiy\Desktop\git_c#\Ex25_String\obj\Debug\Ex25_String.exe
+C:\Users\mimiy\Desktop\git_c#\Ex25_String\obj\Debug\Ex25_String.pdb

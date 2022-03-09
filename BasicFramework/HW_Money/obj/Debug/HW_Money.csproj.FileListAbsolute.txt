@@ -1,0 +1,8 @@
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\HW_Money\bin\Debug\HW_Money.exe.config
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\HW_Money\bin\Debug\HW_Money.exe
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\HW_Money\bin\Debug\HW_Money.pdb
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\HW_Money\obj\Debug\HW_Money.csproj.AssemblyReference.cache
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\HW_Money\obj\Debug\HW_Money.csproj.SuggestedBindingRedirects.cache
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\HW_Money\obj\Debug\HW_Money.csproj.CoreCompileInputs.cache
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\HW_Money\obj\Debug\HW_Money.exe
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\HW_Money\obj\Debug\HW_Money.pdb

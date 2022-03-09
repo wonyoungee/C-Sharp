@@ -1,0 +1,8 @@
+C:\Users\mimiy\Desktop\Ecount\Labs\C-sharp\BasicFramework\Ex19_CallByVal_CallByRef\bin\Debug\Ex19_CallByVal_CallByRef.exe.config
+C:\Users\mimiy\Desktop\Ecount\Labs\C-sharp\BasicFramework\Ex19_CallByVal_CallByRef\bin\Debug\Ex19_CallByVal_CallByRef.exe
+C:\Users\mimiy\Desktop\Ecount\Labs\C-sharp\BasicFramework\Ex19_CallByVal_CallByRef\bin\Debug\Ex19_CallByVal_CallByRef.pdb
+C:\Users\mimiy\Desktop\Ecount\Labs\C-sharp\BasicFramework\Ex19_CallByVal_CallByRef\obj\Debug\Ex19_CallByVal_CallByRef.csproj.AssemblyReference.cache
+C:\Users\mimiy\Desktop\Ecount\Labs\C-sharp\BasicFramework\Ex19_CallByVal_CallByRef\obj\Debug\Ex19_CallByVal_CallByRef.csproj.SuggestedBindingRedirects.cache
+C:\Users\mimiy\Desktop\Ecount\Labs\C-sharp\BasicFramework\Ex19_CallByVal_CallByRef\obj\Debug\Ex19_CallByVal_CallByRef.csproj.CoreCompileInputs.cache
+C:\Users\mimiy\Desktop\Ecount\Labs\C-sharp\BasicFramework\Ex19_CallByVal_CallByRef\obj\Debug\Ex19_CallByVal_CallByRef.exe
+C:\Users\mimiy\Desktop\Ecount\Labs\C-sharp\BasicFramework\Ex19_CallByVal_CallByRef\obj\Debug\Ex19_CallByVal_CallByRef.pdb

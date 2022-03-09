@@ -1,0 +1,6 @@
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\Ex03_EmpLib\bin\Debug\Ex03_EmpLib.dll
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\Ex03_EmpLib\bin\Debug\Ex03_EmpLib.pdb
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\Ex03_EmpLib\obj\Debug\Ex03_EmpLib.csproj.AssemblyReference.cache
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\Ex03_EmpLib\obj\Debug\Ex03_EmpLib.csproj.CoreCompileInputs.cache
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\Ex03_EmpLib\obj\Debug\Ex03_EmpLib.dll
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\Ex03_EmpLib\obj\Debug\Ex03_EmpLib.pdb

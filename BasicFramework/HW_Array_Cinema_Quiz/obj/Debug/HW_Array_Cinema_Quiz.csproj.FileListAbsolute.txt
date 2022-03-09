@@ -1,0 +1,8 @@
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\HW_Array_Cinema_Quiz\bin\Debug\HW_Array_Cinema_Quiz.exe.config
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\HW_Array_Cinema_Quiz\bin\Debug\HW_Array_Cinema_Quiz.exe
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\HW_Array_Cinema_Quiz\bin\Debug\HW_Array_Cinema_Quiz.pdb
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\HW_Array_Cinema_Quiz\obj\Debug\HW_Array_Cinema_Quiz.csproj.AssemblyReference.cache
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\HW_Array_Cinema_Quiz\obj\Debug\HW_Array_Cinema_Quiz.csproj.SuggestedBindingRedirects.cache
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\HW_Array_Cinema_Quiz\obj\Debug\HW_Array_Cinema_Quiz.csproj.CoreCompileInputs.cache
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\HW_Array_Cinema_Quiz\obj\Debug\HW_Array_Cinema_Quiz.exe
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\HW_Array_Cinema_Quiz\obj\Debug\HW_Array_Cinema_Quiz.pdb

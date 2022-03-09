@@ -1,0 +1,8 @@
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\Ex20_Array\bin\Debug\Ex20_Array.exe.config
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\Ex20_Array\bin\Debug\Ex20_Array.exe
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\Ex20_Array\bin\Debug\Ex20_Array.pdb
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\Ex20_Array\obj\Debug\Ex20_Array.csproj.AssemblyReference.cache
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\Ex20_Array\obj\Debug\Ex20_Array.csproj.SuggestedBindingRedirects.cache
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\Ex20_Array\obj\Debug\Ex20_Array.csproj.CoreCompileInputs.cache
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\Ex20_Array\obj\Debug\Ex20_Array.exe
+C:\Users\r2com\Desktop\Ecount\Labs\BasicFramework\Ex20_Array\obj\Debug\Ex20_Array.pdb
