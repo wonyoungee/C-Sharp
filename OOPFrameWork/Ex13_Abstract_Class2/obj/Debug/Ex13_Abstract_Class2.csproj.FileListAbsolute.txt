@@ -1,0 +1,8 @@
+C:\Users\r2com\Desktop\git_c#\C-Sharp\OOPFrameWork\Ex13_Abstract_Class2\bin\Debug\Ex13_Abstract_Class2.exe.config
+C:\Users\r2com\Desktop\git_c#\C-Sharp\OOPFrameWork\Ex13_Abstract_Class2\bin\Debug\Ex13_Abstract_Class2.exe
+C:\Users\r2com\Desktop\git_c#\C-Sharp\OOPFrameWork\Ex13_Abstract_Class2\bin\Debug\Ex13_Abstract_Class2.pdb
+C:\Users\r2com\Desktop\git_c#\C-Sharp\OOPFrameWork\Ex13_Abstract_Class2\obj\Debug\Ex13_Abstract_Class2.csproj.AssemblyReference.cache
+C:\Users\r2com\Desktop\git_c#\C-Sharp\OOPFrameWork\Ex13_Abstract_Class2\obj\Debug\Ex13_Abstract_Class2.csproj.SuggestedBindingRedirects.cache
+C:\Users\r2com\Desktop\git_c#\C-Sharp\OOPFrameWork\Ex13_Abstract_Class2\obj\Debug\Ex13_Abstract_Class2.csproj.CoreCompileInputs.cache
+C:\Users\r2com\Desktop\git_c#\C-Sharp\OOPFrameWork\Ex13_Abstract_Class2\obj\Debug\Ex13_Abstract_Class2.exe
+C:\Users\r2com\Desktop\git_c#\C-Sharp\OOPFrameWork\Ex13_Abstract_Class2\obj\Debug\Ex13_Abstract_Class2.pdb

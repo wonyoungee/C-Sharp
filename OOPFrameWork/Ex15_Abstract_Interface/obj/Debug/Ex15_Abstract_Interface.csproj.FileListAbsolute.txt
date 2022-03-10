@@ -1,0 +1,8 @@
+C:\Users\r2com\Desktop\git_c#\C-Sharp\OOPFrameWork\Ex15_Abstract_Interface\bin\Debug\Ex15_Abstract_Interface.exe.config
+C:\Users\r2com\Desktop\git_c#\C-Sharp\OOPFrameWork\Ex15_Abstract_Interface\bin\Debug\Ex15_Abstract_Interface.exe
+C:\Users\r2com\Desktop\git_c#\C-Sharp\OOPFrameWork\Ex15_Abstract_Interface\bin\Debug\Ex15_Abstract_Interface.pdb
+C:\Users\r2com\Desktop\git_c#\C-Sharp\OOPFrameWork\Ex15_Abstract_Interface\obj\Debug\Ex15_Abstract_Interface.csproj.AssemblyReference.cache
+C:\Users\r2com\Desktop\git_c#\C-Sharp\OOPFrameWork\Ex15_Abstract_Interface\obj\Debug\Ex15_Abstract_Interface.csproj.SuggestedBindingRedirects.cache
+C:\Users\r2com\Desktop\git_c#\C-Sharp\OOPFrameWork\Ex15_Abstract_Interface\obj\Debug\Ex15_Abstract_Interface.csproj.CoreCompileInputs.cache
+C:\Users\r2com\Desktop\git_c#\C-Sharp\OOPFrameWork\Ex15_Abstract_Interface\obj\Debug\Ex15_Abstract_Interface.exe
+C:\Users\r2com\Desktop\git_c#\C-Sharp\OOPFrameWork\Ex15_Abstract_Interface\obj\Debug\Ex15_Abstract_Interface.pdb

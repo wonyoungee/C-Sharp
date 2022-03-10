@@ -1,0 +1,8 @@
+C:\Users\r2com\Desktop\git_c#\C-Sharp\OOPFrameWork\Ex11_Poly_Quiz\bin\Debug\Ex11_Poly_Quiz.exe.config
+C:\Users\r2com\Desktop\git_c#\C-Sharp\OOPFrameWork\Ex11_Poly_Quiz\bin\Debug\Ex11_Poly_Quiz.exe
+C:\Users\r2com\Desktop\git_c#\C-Sharp\OOPFrameWork\Ex11_Poly_Quiz\bin\Debug\Ex11_Poly_Quiz.pdb
+C:\Users\r2com\Desktop\git_c#\C-Sharp\OOPFrameWork\Ex11_Poly_Quiz\obj\Debug\Ex11_Poly_Quiz.csproj.AssemblyReference.cache
+C:\Users\r2com\Desktop\git_c#\C-Sharp\OOPFrameWork\Ex11_Poly_Quiz\obj\Debug\Ex11_Poly_Quiz.csproj.SuggestedBindingRedirects.cache
+C:\Users\r2com\Desktop\git_c#\C-Sharp\OOPFrameWork\Ex11_Poly_Quiz\obj\Debug\Ex11_Poly_Quiz.csproj.CoreCompileInputs.cache
+C:\Users\r2com\Desktop\git_c#\C-Sharp\OOPFrameWork\Ex11_Poly_Quiz\obj\Debug\Ex11_Poly_Quiz.exe
+C:\Users\r2com\Desktop\git_c#\C-Sharp\OOPFrameWork\Ex11_Poly_Quiz\obj\Debug\Ex11_Poly_Quiz.pdb

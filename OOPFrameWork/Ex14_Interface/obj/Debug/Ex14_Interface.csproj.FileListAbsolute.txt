@@ -1,0 +1,8 @@
+C:\Users\r2com\Desktop\git_c#\C-Sharp\OOPFrameWork\Ex14_Interface\bin\Debug\Ex14_Interface.exe.config
+C:\Users\r2com\Desktop\git_c#\C-Sharp\OOPFrameWork\Ex14_Interface\bin\Debug\Ex14_Interface.exe
+C:\Users\r2com\Desktop\git_c#\C-Sharp\OOPFrameWork\Ex14_Interface\bin\Debug\Ex14_Interface.pdb
+C:\Users\r2com\Desktop\git_c#\C-Sharp\OOPFrameWork\Ex14_Interface\obj\Debug\Ex14_Interface.csproj.AssemblyReference.cache
+C:\Users\r2com\Desktop\git_c#\C-Sharp\OOPFrameWork\Ex14_Interface\obj\Debug\Ex14_Interface.csproj.SuggestedBindingRedirects.cache
+C:\Users\r2com\Desktop\git_c#\C-Sharp\OOPFrameWork\Ex14_Interface\obj\Debug\Ex14_Interface.csproj.CoreCompileInputs.cache
+C:\Users\r2com\Desktop\git_c#\C-Sharp\OOPFrameWork\Ex14_Interface\obj\Debug\Ex14_Interface.exe
+C:\Users\r2com\Desktop\git_c#\C-Sharp\OOPFrameWork\Ex14_Interface\obj\Debug\Ex14_Interface.pdb
