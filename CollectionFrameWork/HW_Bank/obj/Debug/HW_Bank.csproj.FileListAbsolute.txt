@@ -1,0 +1,8 @@
+C:\Users\mimiy\Desktop\Ecount\Labs\CollectionFrameWork\HW_Bank\bin\Debug\HW_Bank.exe.config
+C:\Users\mimiy\Desktop\Ecount\Labs\CollectionFrameWork\HW_Bank\bin\Debug\HW_Bank.exe
+C:\Users\mimiy\Desktop\Ecount\Labs\CollectionFrameWork\HW_Bank\bin\Debug\HW_Bank.pdb
+C:\Users\mimiy\Desktop\Ecount\Labs\CollectionFrameWork\HW_Bank\obj\Debug\HW_Bank.csproj.AssemblyReference.cache
+C:\Users\mimiy\Desktop\Ecount\Labs\CollectionFrameWork\HW_Bank\obj\Debug\HW_Bank.csproj.SuggestedBindingRedirects.cache
+C:\Users\mimiy\Desktop\Ecount\Labs\CollectionFrameWork\HW_Bank\obj\Debug\HW_Bank.csproj.CoreCompileInputs.cache
+C:\Users\mimiy\Desktop\Ecount\Labs\CollectionFrameWork\HW_Bank\obj\Debug\HW_Bank.exe
+C:\Users\mimiy\Desktop\Ecount\Labs\CollectionFrameWork\HW_Bank\obj\Debug\HW_Bank.pdb

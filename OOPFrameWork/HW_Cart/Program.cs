@@ -81,10 +81,8 @@ namespace HW_Cart
         private int count = 0;
 
         // 구매자는 default 금액을 가지고 있고 초기금액을 설정할 수 도 있다
-        public Buyer()
+        public Buyer() :this(1000)
         {
-            money = 1000;
-            cart = new Product[10];
         }
         public Buyer(int money)
         {

@@ -6,3 +6,11 @@ C:\Users\r2com\Desktop\git_c#\C-Sharp\OOPFrameWork\HW_Cart\obj\Debug\HW_Cart.csp
 C:\Users\r2com\Desktop\git_c#\C-Sharp\OOPFrameWork\HW_Cart\obj\Debug\HW_Cart.csproj.CoreCompileInputs.cache
 C:\Users\r2com\Desktop\git_c#\C-Sharp\OOPFrameWork\HW_Cart\obj\Debug\HW_Cart.exe
 C:\Users\r2com\Desktop\git_c#\C-Sharp\OOPFrameWork\HW_Cart\obj\Debug\HW_Cart.pdb
+C:\Users\mimiy\Desktop\git_c#\C-Sharp\OOPFrameWork\HW_Cart\bin\Debug\HW_Cart.exe.config
+C:\Users\mimiy\Desktop\git_c#\C-Sharp\OOPFrameWork\HW_Cart\bin\Debug\HW_Cart.exe
+C:\Users\mimiy\Desktop\git_c#\C-Sharp\OOPFrameWork\HW_Cart\bin\Debug\HW_Cart.pdb
+C:\Users\mimiy\Desktop\git_c#\C-Sharp\OOPFrameWork\HW_Cart\obj\Debug\HW_Cart.csproj.AssemblyReference.cache
+C:\Users\mimiy\Desktop\git_c#\C-Sharp\OOPFrameWork\HW_Cart\obj\Debug\HW_Cart.csproj.SuggestedBindingRedirects.cache
+C:\Users\mimiy\Desktop\git_c#\C-Sharp\OOPFrameWork\HW_Cart\obj\Debug\HW_Cart.csproj.CoreCompileInputs.cache
+C:\Users\mimiy\Desktop\git_c#\C-Sharp\OOPFrameWork\HW_Cart\obj\Debug\HW_Cart.exe
+C:\Users\mimiy\Desktop\git_c#\C-Sharp\OOPFrameWork\HW_Cart\obj\Debug\HW_Cart.pdb
