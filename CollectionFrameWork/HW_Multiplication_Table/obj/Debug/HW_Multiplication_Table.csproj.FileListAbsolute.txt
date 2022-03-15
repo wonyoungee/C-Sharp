@@ -1,0 +1,8 @@
+C:\Users\mimiy\Desktop\git_c#\C-Sharp\CollectionFrameWork\HW_Multiplication_Table\bin\Debug\HW_Multiplication_Table.exe.config
+C:\Users\mimiy\Desktop\git_c#\C-Sharp\CollectionFrameWork\HW_Multiplication_Table\bin\Debug\HW_Multiplication_Table.exe
+C:\Users\mimiy\Desktop\git_c#\C-Sharp\CollectionFrameWork\HW_Multiplication_Table\bin\Debug\HW_Multiplication_Table.pdb
+C:\Users\mimiy\Desktop\git_c#\C-Sharp\CollectionFrameWork\HW_Multiplication_Table\obj\Debug\HW_Multiplication_Table.csproj.AssemblyReference.cache
+C:\Users\mimiy\Desktop\git_c#\C-Sharp\CollectionFrameWork\HW_Multiplication_Table\obj\Debug\HW_Multiplication_Table.csproj.SuggestedBindingRedirects.cache
+C:\Users\mimiy\Desktop\git_c#\C-Sharp\CollectionFrameWork\HW_Multiplication_Table\obj\Debug\HW_Multiplication_Table.csproj.CoreCompileInputs.cache
+C:\Users\mimiy\Desktop\git_c#\C-Sharp\CollectionFrameWork\HW_Multiplication_Table\obj\Debug\HW_Multiplication_Table.exe
+C:\Users\mimiy\Desktop\git_c#\C-Sharp\CollectionFrameWork\HW_Multiplication_Table\obj\Debug\HW_Multiplication_Table.pdb

@@ -1,0 +1,8 @@
+C:\Users\mimiy\Desktop\git_c#\C-Sharp\ETCFrameWork\Ex06_Yield\bin\Debug\Ex06_Yield.exe.config
+C:\Users\mimiy\Desktop\git_c#\C-Sharp\ETCFrameWork\Ex06_Yield\bin\Debug\Ex06_Yield.exe
+C:\Users\mimiy\Desktop\git_c#\C-Sharp\ETCFrameWork\Ex06_Yield\bin\Debug\Ex06_Yield.pdb
+C:\Users\mimiy\Desktop\git_c#\C-Sharp\ETCFrameWork\Ex06_Yield\obj\Debug\Ex06_Yield.csproj.AssemblyReference.cache
+C:\Users\mimiy\Desktop\git_c#\C-Sharp\ETCFrameWork\Ex06_Yield\obj\Debug\Ex06_Yield.csproj.SuggestedBindingRedirects.cache
+C:\Users\mimiy\Desktop\git_c#\C-Sharp\ETCFrameWork\Ex06_Yield\obj\Debug\Ex06_Yield.csproj.CoreCompileInputs.cache
+C:\Users\mimiy\Desktop\git_c#\C-Sharp\ETCFrameWork\Ex06_Yield\obj\Debug\Ex06_Yield.exe
+C:\Users\mimiy\Desktop\git_c#\C-Sharp\ETCFrameWork\Ex06_Yield\obj\Debug\Ex06_Yield.pdb

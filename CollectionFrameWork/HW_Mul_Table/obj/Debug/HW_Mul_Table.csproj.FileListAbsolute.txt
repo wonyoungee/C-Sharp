@@ -1,0 +1,8 @@
+C:\Users\mimiy\Desktop\git_c#\C-Sharp\CollectionFrameWork\HW_Mul_Table\bin\Debug\HW_Mul_Table.exe.config
+C:\Users\mimiy\Desktop\git_c#\C-Sharp\CollectionFrameWork\HW_Mul_Table\bin\Debug\HW_Mul_Table.exe
+C:\Users\mimiy\Desktop\git_c#\C-Sharp\CollectionFrameWork\HW_Mul_Table\bin\Debug\HW_Mul_Table.pdb
+C:\Users\mimiy\Desktop\git_c#\C-Sharp\CollectionFrameWork\HW_Mul_Table\obj\Debug\HW_Mul_Table.csproj.AssemblyReference.cache
+C:\Users\mimiy\Desktop\git_c#\C-Sharp\CollectionFrameWork\HW_Mul_Table\obj\Debug\HW_Mul_Table.csproj.SuggestedBindingRedirects.cache
+C:\Users\mimiy\Desktop\git_c#\C-Sharp\CollectionFrameWork\HW_Mul_Table\obj\Debug\HW_Mul_Table.csproj.CoreCompileInputs.cache
+C:\Users\mimiy\Desktop\git_c#\C-Sharp\CollectionFrameWork\HW_Mul_Table\obj\Debug\HW_Mul_Table.exe
+C:\Users\mimiy\Desktop\git_c#\C-Sharp\CollectionFrameWork\HW_Mul_Table\obj\Debug\HW_Mul_Table.pdb

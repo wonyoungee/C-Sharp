@@ -1,0 +1,38 @@
+Microsoft Windows [Version 10.0.19044.1586]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\mimiy>cd C:\Users\mimiy\Desktop\Ecount\Labs\IOFrameWork\Ex04_File_Info\bin\Debug
+
+C:\Users\mimiy\Desktop\Ecount\Labs\IOFrameWork\Ex04_File_Info\bin\Debug>dir
+ C 드라이브의 볼륨에는 이름이 없습니다.
+ 볼륨 일련 번호: 8C95-69F6
+
+ C:\Users\mimiy\Desktop\Ecount\Labs\IOFrameWork\Ex04_File_Info\bin\Debug 디렉터리
+
+2022-03-15  오후 04:26    <DIR>          .
+2022-03-15  오후 04:26    <DIR>          ..
+2022-03-15  오후 04:26             4,608 Ex04_File_Info.exe
+2022-03-15  오후 04:25               189 Ex04_File_Info.exe.config
+2022-03-15  오후 04:26            19,968 Ex04_File_Info.pdb
+               3개 파일              24,765 바이트
+               2개 디렉터리  35,746,103,296 바이트 남음
+
+C:\Users\mimiy\Desktop\Ecount\Labs\IOFrameWork\Ex04_File_Info\bin\Debug>Ex04_File_Info.exe hello
+hello
+
+C:\Users\mimiy\Desktop\Ecount\Labs\IOFrameWork\Ex04_File_Info\bin\Debug>Ex04_File_Info.exe aaa
+
+C:\Users\mimiy\Desktop\Ecount\Labs\IOFrameWork\Ex04_File_Info\bin\Debug>Ex04_FIle_Info.exe C:\Temp
+디렉토리 : C:\Temp\AUtempR, 파일수 : 0
+디렉토리 : C:\Temp\NEO2, 파일수 : 0
+디렉토리 : C:\Temp\temp2, 파일수 : 0
+디렉토리 : C:\Temp\{8BBFF099-3D7D-47AF-BB24-890C33585218}, 파일수 : 0
+
+C:\Users\mimiy\Desktop\Ecount\Labs\IOFrameWork\Ex04_File_Info\bin\Debug>Ex04_File_Info.exe C:\Temp
+디렉토리 : C:\Temp\AUtempR, 파일수 : 0
+디렉토리 : C:\Temp\NEO2, 파일수 : 0
+디렉토리 : C:\Temp\temp2, 파일수 : 3
+[1] : Name : 새 Microsoft Word 문서.docx, Extension.docx , size0
+[2] : Name : 새 비트맵 이미지.bmp, Extension.bmp , size0
+[3] : Name : 새 텍스트 문서.txt, Extension.txt , size25
+디렉토리 : C:\Temp\{8BBFF099-3D7D-47AF-BB24-890C33585218}, 파일수 : 0

@@ -1,0 +1,8 @@
+C:\Users\mimiy\Desktop\git_c#\C-Sharp\CollectionFrameWork\Ex07_Stack\bin\Debug\Ex07_Stack.exe.config
+C:\Users\mimiy\Desktop\git_c#\C-Sharp\CollectionFrameWork\Ex07_Stack\bin\Debug\Ex07_Stack.exe
+C:\Users\mimiy\Desktop\git_c#\C-Sharp\CollectionFrameWork\Ex07_Stack\bin\Debug\Ex07_Stack.pdb
+C:\Users\mimiy\Desktop\git_c#\C-Sharp\CollectionFrameWork\Ex07_Stack\obj\Debug\Ex07_Stack.csproj.AssemblyReference.cache
+C:\Users\mimiy\Desktop\git_c#\C-Sharp\CollectionFrameWork\Ex07_Stack\obj\Debug\Ex07_Stack.csproj.SuggestedBindingRedirects.cache
+C:\Users\mimiy\Desktop\git_c#\C-Sharp\CollectionFrameWork\Ex07_Stack\obj\Debug\Ex07_Stack.csproj.CoreCompileInputs.cache
+C:\Users\mimiy\Desktop\git_c#\C-Sharp\CollectionFrameWork\Ex07_Stack\obj\Debug\Ex07_Stack.exe
+C:\Users\mimiy\Desktop\git_c#\C-Sharp\CollectionFrameWork\Ex07_Stack\obj\Debug\Ex07_Stack.pdb

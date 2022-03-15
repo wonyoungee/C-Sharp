@@ -1,0 +1,8 @@
+C:\Users\mimiy\Desktop\git_c#\C-Sharp\ETCFrameWork\Ex04_Var_Type\bin\Debug\Ex04_Var_Type.exe.config
+C:\Users\mimiy\Desktop\git_c#\C-Sharp\ETCFrameWork\Ex04_Var_Type\bin\Debug\Ex04_Var_Type.exe
+C:\Users\mimiy\Desktop\git_c#\C-Sharp\ETCFrameWork\Ex04_Var_Type\bin\Debug\Ex04_Var_Type.pdb
+C:\Users\mimiy\Desktop\git_c#\C-Sharp\ETCFrameWork\Ex04_Var_Type\obj\Debug\Ex04_Var_Type.csproj.AssemblyReference.cache
+C:\Users\mimiy\Desktop\git_c#\C-Sharp\ETCFrameWork\Ex04_Var_Type\obj\Debug\Ex04_Var_Type.csproj.SuggestedBindingRedirects.cache
+C:\Users\mimiy\Desktop\git_c#\C-Sharp\ETCFrameWork\Ex04_Var_Type\obj\Debug\Ex04_Var_Type.csproj.CoreCompileInputs.cache
+C:\Users\mimiy\Desktop\git_c#\C-Sharp\ETCFrameWork\Ex04_Var_Type\obj\Debug\Ex04_Var_Type.exe
+C:\Users\mimiy\Desktop\git_c#\C-Sharp\ETCFrameWork\Ex04_Var_Type\obj\Debug\Ex04_Var_Type.pdb

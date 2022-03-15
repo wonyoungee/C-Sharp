@@ -1,0 +1,38 @@
+ <디자인 패턴>
+ - sw설계하면서 자주 발생하는 문제들을 해결하기 위한 해결 방법을 일반화해서 정리한 것.
+
+ 1) Creational Pattern : 객체를 생성(new) 하는데 필요. 팩토리 메서드/ 추상팩토리/ 싱글턴 패턴 등.
+ 2) Structural Pattern : 기존 객체를 확장. 어댑터 / 프록시 / 컴포지트 패턴 등. (잘 안씀...)
+ 3) Behavioral Pattern : 템플릿 메서드 / 옵저버 / 스트래티지 패턴 등.
+
+
+ <싱글톤 패턴>
+ - 자기 참조
+ - 모든 데이터를 전역으로 관리 - 쉽게 접근 가능
+ - 하나의 객체만 (new 불가) - static으로 할당 - 데이터 접근/수정 용이
+ - ex) 공유기 - 하나의 공유기에 모든 사람이 공유하여 접속.
+ - 단점 : 해당 객체에 너무 큰 메모리가 쌓이면 성능 낮아짐.
+
+
+ * 동기화 - 보장한다 (Lock) : 성능 나쁨 (하나 끝날때까지 기다려야함.)
+	- 보장하지 않는다 : 성능 좋음 (동시 작업 가능)
+
+
+ <Collection>
+ <Hashtable 클래스>
+ - key로 value 값을 찾음.
+ - Add시, key와 value 값을 같이 입력해야함.
+ - IDictionary 인터페이스의 대표적인 예
+ - method - ContainsKey() : 해당 키값 가지는지 여부 / Keys : 모든 키 값/ Values : 모든 value 값
+ - key는 중복 X인 집합 , value는 중복 가능
+
+ <SortedList 클래스>
+ - "키"를 기준으로 리스트가 자동 정렬됨.
+
+ <Queue 클래스>
+ - FIFO (First In First Out) : 선입선출
+
+ <Stack 클래스>
+ - LIFO(Last In First Out) : 후입선출
+ - push(object타입)
+ - pop() 

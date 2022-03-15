@@ -1,0 +1,8 @@
+C:\Users\mimiy\Desktop\git_c#\C-Sharp\ETCFrameWork\Ex03_Singleton\bin\Debug\Ex03_Singleton.exe.config
+C:\Users\mimiy\Desktop\git_c#\C-Sharp\ETCFrameWork\Ex03_Singleton\bin\Debug\Ex03_Singleton.exe
+C:\Users\mimiy\Desktop\git_c#\C-Sharp\ETCFrameWork\Ex03_Singleton\bin\Debug\Ex03_Singleton.pdb
+C:\Users\mimiy\Desktop\git_c#\C-Sharp\ETCFrameWork\Ex03_Singleton\obj\Debug\Ex03_Singleton.csproj.AssemblyReference.cache
+C:\Users\mimiy\Desktop\git_c#\C-Sharp\ETCFrameWork\Ex03_Singleton\obj\Debug\Ex03_Singleton.csproj.SuggestedBindingRedirects.cache
+C:\Users\mimiy\Desktop\git_c#\C-Sharp\ETCFrameWork\Ex03_Singleton\obj\Debug\Ex03_Singleton.csproj.CoreCompileInputs.cache
+C:\Users\mimiy\Desktop\git_c#\C-Sharp\ETCFrameWork\Ex03_Singleton\obj\Debug\Ex03_Singleton.exe
+C:\Users\mimiy\Desktop\git_c#\C-Sharp\ETCFrameWork\Ex03_Singleton\obj\Debug\Ex03_Singleton.pdb

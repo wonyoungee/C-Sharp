@@ -1,0 +1,8 @@
+C:\Users\mimiy\Desktop\git_c#\C-Sharp\CollectionFrameWork\Ex09_Generic\bin\Debug\Ex09_Generic.exe.config
+C:\Users\mimiy\Desktop\git_c#\C-Sharp\CollectionFrameWork\Ex09_Generic\bin\Debug\Ex09_Generic.exe
+C:\Users\mimiy\Desktop\git_c#\C-Sharp\CollectionFrameWork\Ex09_Generic\bin\Debug\Ex09_Generic.pdb
+C:\Users\mimiy\Desktop\git_c#\C-Sharp\CollectionFrameWork\Ex09_Generic\obj\Debug\Ex09_Generic.csproj.AssemblyReference.cache
+C:\Users\mimiy\Desktop\git_c#\C-Sharp\CollectionFrameWork\Ex09_Generic\obj\Debug\Ex09_Generic.csproj.SuggestedBindingRedirects.cache
+C:\Users\mimiy\Desktop\git_c#\C-Sharp\CollectionFrameWork\Ex09_Generic\obj\Debug\Ex09_Generic.csproj.CoreCompileInputs.cache
+C:\Users\mimiy\Desktop\git_c#\C-Sharp\CollectionFrameWork\Ex09_Generic\obj\Debug\Ex09_Generic.exe
+C:\Users\mimiy\Desktop\git_c#\C-Sharp\CollectionFrameWork\Ex09_Generic\obj\Debug\Ex09_Generic.pdb

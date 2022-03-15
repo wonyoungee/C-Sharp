@@ -1,0 +1,8 @@
+C:\Users\mimiy\Desktop\Ecount\Labs\IOFrameWork\Ex03_FIleInfo_DirInfo\bin\Debug\Ex03_FIleInfo_DirInfo.exe.config
+C:\Users\mimiy\Desktop\Ecount\Labs\IOFrameWork\Ex03_FIleInfo_DirInfo\bin\Debug\Ex03_FIleInfo_DirInfo.exe
+C:\Users\mimiy\Desktop\Ecount\Labs\IOFrameWork\Ex03_FIleInfo_DirInfo\bin\Debug\Ex03_FIleInfo_DirInfo.pdb
+C:\Users\mimiy\Desktop\Ecount\Labs\IOFrameWork\Ex03_FIleInfo_DirInfo\obj\Debug\Ex03_FIleInfo_DirInfo.csproj.AssemblyReference.cache
+C:\Users\mimiy\Desktop\Ecount\Labs\IOFrameWork\Ex03_FIleInfo_DirInfo\obj\Debug\Ex03_FIleInfo_DirInfo.csproj.SuggestedBindingRedirects.cache
+C:\Users\mimiy\Desktop\Ecount\Labs\IOFrameWork\Ex03_FIleInfo_DirInfo\obj\Debug\Ex03_FIleInfo_DirInfo.csproj.CoreCompileInputs.cache
+C:\Users\mimiy\Desktop\Ecount\Labs\IOFrameWork\Ex03_FIleInfo_DirInfo\obj\Debug\Ex03_FIleInfo_DirInfo.exe
+C:\Users\mimiy\Desktop\Ecount\Labs\IOFrameWork\Ex03_FIleInfo_DirInfo\obj\Debug\Ex03_FIleInfo_DirInfo.pdb

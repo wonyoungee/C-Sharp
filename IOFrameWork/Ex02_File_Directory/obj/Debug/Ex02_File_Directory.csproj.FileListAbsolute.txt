@@ -1,0 +1,8 @@
+C:\Users\mimiy\Desktop\Ecount\Labs\IOFrameWork\Ex02_File_Directory\bin\Debug\Ex02_File_Directory.exe.config
+C:\Users\mimiy\Desktop\Ecount\Labs\IOFrameWork\Ex02_File_Directory\bin\Debug\Ex02_File_Directory.exe
+C:\Users\mimiy\Desktop\Ecount\Labs\IOFrameWork\Ex02_File_Directory\bin\Debug\Ex02_File_Directory.pdb
+C:\Users\mimiy\Desktop\Ecount\Labs\IOFrameWork\Ex02_File_Directory\obj\Debug\Ex02_File_Directory.csproj.AssemblyReference.cache
+C:\Users\mimiy\Desktop\Ecount\Labs\IOFrameWork\Ex02_File_Directory\obj\Debug\Ex02_File_Directory.csproj.SuggestedBindingRedirects.cache
+C:\Users\mimiy\Desktop\Ecount\Labs\IOFrameWork\Ex02_File_Directory\obj\Debug\Ex02_File_Directory.csproj.CoreCompileInputs.cache
+C:\Users\mimiy\Desktop\Ecount\Labs\IOFrameWork\Ex02_File_Directory\obj\Debug\Ex02_File_Directory.exe
+C:\Users\mimiy\Desktop\Ecount\Labs\IOFrameWork\Ex02_File_Directory\obj\Debug\Ex02_File_Directory.pdb

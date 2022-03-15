@@ -1,0 +1,8 @@
+C:\Users\mimiy\Desktop\Ecount\Labs\IOFrameWork\HW_Make_DOS\bin\Debug\HW_Make_DOS.exe.config
+C:\Users\mimiy\Desktop\Ecount\Labs\IOFrameWork\HW_Make_DOS\bin\Debug\HW_Make_DOS.exe
+C:\Users\mimiy\Desktop\Ecount\Labs\IOFrameWork\HW_Make_DOS\bin\Debug\HW_Make_DOS.pdb
+C:\Users\mimiy\Desktop\Ecount\Labs\IOFrameWork\HW_Make_DOS\obj\Debug\HW_Make_DOS.csproj.AssemblyReference.cache
+C:\Users\mimiy\Desktop\Ecount\Labs\IOFrameWork\HW_Make_DOS\obj\Debug\HW_Make_DOS.csproj.SuggestedBindingRedirects.cache
+C:\Users\mimiy\Desktop\Ecount\Labs\IOFrameWork\HW_Make_DOS\obj\Debug\HW_Make_DOS.csproj.CoreCompileInputs.cache
+C:\Users\mimiy\Desktop\Ecount\Labs\IOFrameWork\HW_Make_DOS\obj\Debug\HW_Make_DOS.exe
+C:\Users\mimiy\Desktop\Ecount\Labs\IOFrameWork\HW_Make_DOS\obj\Debug\HW_Make_DOS.pdb
