@@ -1,0 +1,34 @@
+
+직렬화 - 객체를 분해해서 줄 세워서 보냄
+역직렬화 - 분해한 것을 다시 완제품으로 만듦
+
+serializable(직렬화가능) 대상 설정.
+
+
+ **직렬화 (serialize)
+
+- StreamWriter / StreamReader와 BinaryWriter / BinaryReader 
+>>> 기본 데이터형만 저장 및 읽기 가능
+
+- 구조체, 클래스 저장 및 읽기 
+>>> FileStream, BinaryFormatter
+=> 객체를 읽고 쓸 수 있음
+
+- BinaryFormatter 네임스페이스  
+>>> using System.Runtime.Serialization.Formatters.Binary;
+
+
+- 대상 설정
+ [Serializable]	// 구조체나 클래스 위에 이 표시 붙어있어야 직렬화 가능.
+ struct  Data{ 
+ }
+
+
+ [Serializable]
+ class Emp{
+   public int empno;
+   [NonSerialized] //저장하고 싶지 않음! (직렬화 하고 싶지 않아)
+   public int sal; 
+}
+
+파일에 객체 저장/읽을 수 있음

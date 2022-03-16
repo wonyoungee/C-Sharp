@@ -1,0 +1,8 @@
+C:\Users\r2com\Desktop\git_c#\IOFrameWork\Ex05_FileStream\bin\Debug\Ex05_FileStream.exe.config
+C:\Users\r2com\Desktop\git_c#\IOFrameWork\Ex05_FileStream\bin\Debug\Ex05_FileStream.exe
+C:\Users\r2com\Desktop\git_c#\IOFrameWork\Ex05_FileStream\bin\Debug\Ex05_FileStream.pdb
+C:\Users\r2com\Desktop\git_c#\IOFrameWork\Ex05_FileStream\obj\Debug\Ex05_FileStream.csproj.AssemblyReference.cache
+C:\Users\r2com\Desktop\git_c#\IOFrameWork\Ex05_FileStream\obj\Debug\Ex05_FileStream.csproj.SuggestedBindingRedirects.cache
+C:\Users\r2com\Desktop\git_c#\IOFrameWork\Ex05_FileStream\obj\Debug\Ex05_FileStream.csproj.CoreCompileInputs.cache
+C:\Users\r2com\Desktop\git_c#\IOFrameWork\Ex05_FileStream\obj\Debug\Ex05_FileStream.exe
+C:\Users\r2com\Desktop\git_c#\IOFrameWork\Ex05_FileStream\obj\Debug\Ex05_FileStream.pdb

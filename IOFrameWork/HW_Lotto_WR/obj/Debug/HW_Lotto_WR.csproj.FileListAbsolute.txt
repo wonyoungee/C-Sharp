@@ -1,0 +1,8 @@
+C:\Users\r2com\Desktop\git_c#\IOFrameWork\HW_Lotto_WR\bin\Debug\HW_Lotto_WR.exe.config
+C:\Users\r2com\Desktop\git_c#\IOFrameWork\HW_Lotto_WR\bin\Debug\HW_Lotto_WR.exe
+C:\Users\r2com\Desktop\git_c#\IOFrameWork\HW_Lotto_WR\bin\Debug\HW_Lotto_WR.pdb
+C:\Users\r2com\Desktop\git_c#\IOFrameWork\HW_Lotto_WR\obj\Debug\HW_Lotto_WR.csproj.AssemblyReference.cache
+C:\Users\r2com\Desktop\git_c#\IOFrameWork\HW_Lotto_WR\obj\Debug\HW_Lotto_WR.csproj.SuggestedBindingRedirects.cache
+C:\Users\r2com\Desktop\git_c#\IOFrameWork\HW_Lotto_WR\obj\Debug\HW_Lotto_WR.csproj.CoreCompileInputs.cache
+C:\Users\r2com\Desktop\git_c#\IOFrameWork\HW_Lotto_WR\obj\Debug\HW_Lotto_WR.exe
+C:\Users\r2com\Desktop\git_c#\IOFrameWork\HW_Lotto_WR\obj\Debug\HW_Lotto_WR.pdb

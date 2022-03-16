@@ -1,0 +1,8 @@
+C:\Users\r2com\Desktop\git_c#\IOFrameWork\Ex10_Collection_Serializable\bin\Debug\Ex10_Collection_Serializable.exe.config
+C:\Users\r2com\Desktop\git_c#\IOFrameWork\Ex10_Collection_Serializable\bin\Debug\Ex10_Collection_Serializable.exe
+C:\Users\r2com\Desktop\git_c#\IOFrameWork\Ex10_Collection_Serializable\bin\Debug\Ex10_Collection_Serializable.pdb
+C:\Users\r2com\Desktop\git_c#\IOFrameWork\Ex10_Collection_Serializable\obj\Debug\Ex10_Collection_Serializable.csproj.AssemblyReference.cache
+C:\Users\r2com\Desktop\git_c#\IOFrameWork\Ex10_Collection_Serializable\obj\Debug\Ex10_Collection_Serializable.csproj.SuggestedBindingRedirects.cache
+C:\Users\r2com\Desktop\git_c#\IOFrameWork\Ex10_Collection_Serializable\obj\Debug\Ex10_Collection_Serializable.csproj.CoreCompileInputs.cache
+C:\Users\r2com\Desktop\git_c#\IOFrameWork\Ex10_Collection_Serializable\obj\Debug\Ex10_Collection_Serializable.exe
+C:\Users\r2com\Desktop\git_c#\IOFrameWork\Ex10_Collection_Serializable\obj\Debug\Ex10_Collection_Serializable.pdb
