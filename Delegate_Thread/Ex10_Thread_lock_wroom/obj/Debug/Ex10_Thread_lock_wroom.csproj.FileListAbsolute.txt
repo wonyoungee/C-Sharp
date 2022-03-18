@@ -1,0 +1,8 @@
+C:\Users\r2com\Desktop\git_c#\Delegate_Thread\Ex10_Thread_lock_wroom\bin\Debug\Ex10_Thread_lock_wroom.exe.config
+C:\Users\r2com\Desktop\git_c#\Delegate_Thread\Ex10_Thread_lock_wroom\bin\Debug\Ex10_Thread_lock_wroom.exe
+C:\Users\r2com\Desktop\git_c#\Delegate_Thread\Ex10_Thread_lock_wroom\bin\Debug\Ex10_Thread_lock_wroom.pdb
+C:\Users\r2com\Desktop\git_c#\Delegate_Thread\Ex10_Thread_lock_wroom\obj\Debug\Ex10_Thread_lock_wroom.csproj.AssemblyReference.cache
+C:\Users\r2com\Desktop\git_c#\Delegate_Thread\Ex10_Thread_lock_wroom\obj\Debug\Ex10_Thread_lock_wroom.csproj.SuggestedBindingRedirects.cache
+C:\Users\r2com\Desktop\git_c#\Delegate_Thread\Ex10_Thread_lock_wroom\obj\Debug\Ex10_Thread_lock_wroom.csproj.CoreCompileInputs.cache
+C:\Users\r2com\Desktop\git_c#\Delegate_Thread\Ex10_Thread_lock_wroom\obj\Debug\Ex10_Thread_lock_wroom.exe
+C:\Users\r2com\Desktop\git_c#\Delegate_Thread\Ex10_Thread_lock_wroom\obj\Debug\Ex10_Thread_lock_wroom.pdb

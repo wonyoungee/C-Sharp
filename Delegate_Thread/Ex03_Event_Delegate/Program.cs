@@ -34,7 +34,7 @@ namespace Ex03_Event_Delegate
             // 핸들러로 등록되는 함수(testDel.MouseClick)는 델리게이트(onClick)와 형식이 같아야 함.
             // m.myClick -= new onClick(testDel.MouseClick);
             m.myClick += new onClick(testDel.KeyboardClick);
-            m.myClick()
+            m.myClick("왼쪽");
         }
     }
 }
