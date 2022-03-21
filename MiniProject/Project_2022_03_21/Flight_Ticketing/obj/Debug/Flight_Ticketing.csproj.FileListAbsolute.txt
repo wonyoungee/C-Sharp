@@ -1,0 +1,8 @@
+C:\Users\acdac\OneDrive\바탕 화면\ecount\Labs\Project_2022_03_21\Flight_Ticketing\bin\Debug\Flight_Ticketing.exe.config
+C:\Users\acdac\OneDrive\바탕 화면\ecount\Labs\Project_2022_03_21\Flight_Ticketing\bin\Debug\Flight_Ticketing.exe
+C:\Users\acdac\OneDrive\바탕 화면\ecount\Labs\Project_2022_03_21\Flight_Ticketing\bin\Debug\Flight_Ticketing.pdb
+C:\Users\acdac\OneDrive\바탕 화면\ecount\Labs\Project_2022_03_21\Flight_Ticketing\obj\Debug\Flight_Ticketing.csproj.AssemblyReference.cache
+C:\Users\acdac\OneDrive\바탕 화면\ecount\Labs\Project_2022_03_21\Flight_Ticketing\obj\Debug\Flight_Ticketing.csproj.SuggestedBindingRedirects.cache
+C:\Users\acdac\OneDrive\바탕 화면\ecount\Labs\Project_2022_03_21\Flight_Ticketing\obj\Debug\Flight_Ticketing.csproj.CoreCompileInputs.cache
+C:\Users\acdac\OneDrive\바탕 화면\ecount\Labs\Project_2022_03_21\Flight_Ticketing\obj\Debug\Flight_Ticketing.exe
+C:\Users\acdac\OneDrive\바탕 화면\ecount\Labs\Project_2022_03_21\Flight_Ticketing\obj\Debug\Flight_Ticketing.pdb

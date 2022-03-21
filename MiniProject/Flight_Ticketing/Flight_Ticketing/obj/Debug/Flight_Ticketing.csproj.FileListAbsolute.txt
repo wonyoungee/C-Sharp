@@ -1,0 +1,8 @@
+C:\Users\mimiy\Desktop\git_c#\C-Sharp\MiniProject\Flight_Ticketing\Flight_Ticketing\bin\Debug\Flight_Ticketing.exe.config
+C:\Users\mimiy\Desktop\git_c#\C-Sharp\MiniProject\Flight_Ticketing\Flight_Ticketing\bin\Debug\Flight_Ticketing.exe
+C:\Users\mimiy\Desktop\git_c#\C-Sharp\MiniProject\Flight_Ticketing\Flight_Ticketing\bin\Debug\Flight_Ticketing.pdb
+C:\Users\mimiy\Desktop\git_c#\C-Sharp\MiniProject\Flight_Ticketing\Flight_Ticketing\obj\Debug\Flight_Ticketing.csproj.AssemblyReference.cache
+C:\Users\mimiy\Desktop\git_c#\C-Sharp\MiniProject\Flight_Ticketing\Flight_Ticketing\obj\Debug\Flight_Ticketing.csproj.SuggestedBindingRedirects.cache
+C:\Users\mimiy\Desktop\git_c#\C-Sharp\MiniProject\Flight_Ticketing\Flight_Ticketing\obj\Debug\Flight_Ticketing.csproj.CoreCompileInputs.cache
+C:\Users\mimiy\Desktop\git_c#\C-Sharp\MiniProject\Flight_Ticketing\Flight_Ticketing\obj\Debug\Flight_Ticketing.exe
+C:\Users\mimiy\Desktop\git_c#\C-Sharp\MiniProject\Flight_Ticketing\Flight_Ticketing\obj\Debug\Flight_Ticketing.pdb
